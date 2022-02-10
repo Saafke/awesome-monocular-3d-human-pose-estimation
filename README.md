@@ -4,15 +4,43 @@ One stop shop for everything related to 3D human pose estimation from a single R
 Please feel free to make pull requests so we can keep this repository as complete and up-to-date as possible.
 
 ## Table of Contents
+- [Getting Started](#start)
 - [Human Body Models](#bodymodels)
 - [Monocular Estimation Models](#estimation)
   - [Predicting only 3D joints](#joints)
   - [Predicting 3D meshes](#meshes)
 - [Datasets](#datasets)
 
+
 &nbsp;
 &nbsp;
-## 3D HUMAN BODY MODELS <a name="bodymodels"></a>
+## Getting Started <a name="start"></a>
+Here are some good resources to get started on studying this subfield of computer vision. 
+
+<details>
+  <summary>Survey papers</summary>
+  
+  - [Monocular Human Pose Estimation: A Survey of Deep Learning-based Methods](https://arxiv.org/abs/2006.01423)
+  - [A survey on monocular 3D human pose estimation](https://www.sciencedirect.com/science/article/pii/S2096579620300887)
+  - [Deep 3D human pose estimation: A review](https://www.sciencedirect.com/science/article/pii/S1077314221000692)
+  
+  
+</details>
+  
+<details>
+  <summary>Other</summary>
+  
+  - [OpenPose GitHub](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+  - https://paperswithcode.com/task/monocular-3d-human-pose-estimation 
+  - [SMPL paper](https://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)
+  - [ArXiv feed](https://arxiv.org/search/?query=3D+human+pose&searchtype=all&source=header)
+  
+</details>
+
+
+&nbsp;
+&nbsp;
+## 3D Human Body Models <a name="bodymodels"></a>
 <details>
   <summary>Details</summary>
   
@@ -27,9 +55,10 @@ Please feel free to make pull requests so we can keep this repository as complet
 
 </details>
 
+
 &nbsp;
 &nbsp;
-## MONOCULAR ESTIMATION MODELS <a name="estimation"></a>
+## Monocular Estimation models <a name="estimation"></a>
 
 ### 3D Joints <a name="joints"></a>
 Methods that estimate from a single RGB image or video a human skeleton consisting of 3D joints.
@@ -42,6 +71,7 @@ Methods that estimate from a single RGB image or video a human skeleton consisti
   | - | - | - | - | - |
   
 </details>
+
 
 &nbsp;
 ### 3D Mesh <a name="meshes"></a>
@@ -58,10 +88,11 @@ Methods that estimate from a single RGB image or video the whole 3D human body m
 
 </details>
 
+
 &nbsp;
 &nbsp;
-## DATASETS <a name="datasets"></a>
-All the related datasets for this task. Quickly from memory: AGORA, AMASS, 3DPW, 
+## Datasets <a name="datasets"></a>
+All the related datasets for this task. Quickly from memory: AGORA, AMASS, 3DPW, 3.6Human, 
 <details>
   <summary>Details</summary>
   | Name   | Year | Description | Size     | Link |
