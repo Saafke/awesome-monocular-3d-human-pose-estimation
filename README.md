@@ -95,6 +95,7 @@ Methods that estimate from a single RGB image or video the whole 3D human body m
 All the related datasets for this task. Quickly from memory: AGORA, AMASS, 3DPW, 3.6Human, 
 <details>
   <summary>Details</summary>
+  
   | Name   | Year | Description | Size     | Link |
   | :---   | :----| :----       |:---:     | ---: |
   | 3DPW   | 2018 | 3D poses in the wild   | - | [[Project page]](https://virtualhumans.mpi-inf.mpg.de/3DPW/) |
