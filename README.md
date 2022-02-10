@@ -3,7 +3,16 @@ One stop shop for everything related to 3D human pose estimation from a single R
 
 Please feel free to make pull requests so we can keep this repository as complete and up-to-date as possible.
 
-## 3D HUMAN BODY MODELS
+## Table of Contents
+- [Human Body Models](#bodymodels)
+- [Monocular Estimation Models](#estimation)
+  - [Predicting only 3D joints](#joints)
+  - [Predicting 3D meshes](#meshes)
+- [Datasets](#datasets)
+
+&nbsp;
+&nbsp;
+## 3D HUMAN BODY MODELS <a name="bodymodels"></a>
 <details>
   <summary>Details</summary>
   
@@ -18,10 +27,11 @@ Please feel free to make pull requests so we can keep this repository as complet
 
 </details>
 
+&nbsp;
+&nbsp;
+## MONOCULAR ESTIMATION MODELS <a name="estimation"></a>
 
-## MONOCULAR ESTIMATION MODELS
-
-### 3D Joints
+### 3D Joints <a name="joints"></a>
 Methods that estimate from a single RGB image or video a human skeleton consisting of 3D joints.
 
 <details>
@@ -33,7 +43,8 @@ Methods that estimate from a single RGB image or video a human skeleton consisti
   
 </details>
 
-### 3D Mesh
+&nbsp;
+### 3D Mesh <a name="meshes"></a>
 Methods that estimate from a single RGB image or video the whole 3D human body mesh.
   
 <details>
@@ -41,17 +52,22 @@ Methods that estimate from a single RGB image or video the whole 3D human body m
  
   | Model name   | Year | Description                                                | Body model used | Temporal | Link |
   | :---         | :----|    :----                                                   | :---:           |:---:|     ---: |
-  | DecoMR       | 2020 | 3D Human Mesh Regression with Dense Correspondence         | SMPL | :white_large_square | [[GitHub page]](https://github.com/zengwang430521/DecoMR)
-  | VIBE         | 2020 | Video Inference for Human Body Pose and Shape Estimation   | SMPL(-X)        |:white_check_mark:  |[[GitHub page]](https://github.com/mkocabas/VIBE)|
+  | DecoMR       | 2020 | 3D Human Mesh Regression with Dense Correspondence         | SMPL | :white_large_square: | [[GitHub page]](https://github.com/zengwang430521/DecoMR)
+  | VIBE         | 2020 | Video Inference for Human Body Pose and Shape Estimation   | SMPL        |:white_check_mark:  |[[GitHub page]](https://github.com/mkocabas/VIBE)|
   | -            | 2021 | Human Performance Capture from Monocular Video in the Wild | SMPL            |:white_check_mark:  |  [[PDF]](https://arxiv.org/pdf/2111.14672.pdf)|
 
 </details>
 
-
-## DATASETS
+&nbsp;
+&nbsp;
+## DATASETS <a name="datasets"></a>
+All the related datasets for this task. Quickly from memory: AGORA, AMASS, 3DPW, 
 <details>
   <summary>Details</summary>
-  
+  | Name   | Year | Description | Size     | Link |
+  | :---   | :----| :----       |:---:     | ---: |
+  | 3DPW   | 2018 | 3D poses in the wild   | - | [[Project page]](https://virtualhumans.mpi-inf.mpg.de/3DPW/) |
+
 </details>
 
 
