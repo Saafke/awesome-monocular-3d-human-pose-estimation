@@ -85,6 +85,7 @@ Methods that estimate from a single RGB image or video the whole 3D human body m
   | DecoMR       | 2020 | 3D Human Mesh Regression with Dense Correspondence         | SMPL | :white_large_square: | [[GitHub page]](https://github.com/zengwang430521/DecoMR)
   | VIBE         | 2020 | Video Inference for Human Body Pose and Shape Estimation   | SMPL        |:white_check_mark:  |[[GitHub page]](https://github.com/mkocabas/VIBE)|
   | -            | 2021 | Human Performance Capture from Monocular Video in the Wild | SMPL            |:white_check_mark:  |  [[PDF]](https://arxiv.org/pdf/2111.14672.pdf)|
+  | SimPoE | 2021 | Simulated Character Control for 3D Human Pose Estimation | | :white_check_mark: | [[PaperswCode Page]](https://paperswithcode.com/paper/simpoe-simulated-character-control-for-3d) |
 
 </details>
 
