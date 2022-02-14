@@ -51,7 +51,7 @@ Here are some good resources to get started on studying this subfield of compute
   | BlendSCAPE   | 2012 | Coregistration: Simultaneous Alignment and Modeling of Articulated 3D Shape | [[Paper PDF]](https://files.is.tue.mpg.de/black/papers/HirshbergECCV2012.pdf) |
   | SMPL         | 2015 | A Skinned Multi-Person Linear Model                  | [[Project page]](https://smpl.is.tue.mpg.de/)      |
   | SMPL-H       | 2017 | Embodied Hands: Modeling and Capturing Hands and Bodies Together | [[PDF page]](https://ps.is.mpg.de/uploads_file/attachment/attachment/392/Embodied_Hands_SiggraphAsia2017.pdf) |
-  | SMPL-X       | 2019 | SMPL eXpressive                                      | [[Project page]](https://smpl-x.is.tue.mpg.de/)    |
+  | SMPL-X       | 2019 | Expressive Body Capture: 3D Hands, Face, and Body from a Single Image | [[Project page]](https://smpl-x.is.tue.mpg.de/)    |
   | STAR         | 2020 | A Sparse Trained Articulated Human Body Regressor    | [[Project page]](https://star.is.tue.mpg.de/)      |
   | GHUM & GHUML | 2020 | Generative 3D Human Shape and Articulated Pose Models| [[GitHub page]](https://github.com/google-research/google-research/tree/master/ghum)|
 
