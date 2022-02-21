@@ -45,6 +45,8 @@ Here are some good resources to get started on studying this subfield of compute
 <details>
   <summary>Details</summary>
   
+  ### List of 3D human body models
+  
   | Model name   | Year | Description                                          | Link |
   | :---         | :----|    :----                                             |          ---: |
   | SCAPE        | 2005 | Shape Completion and Animation of People | [[Project page]](http://ai.stanford.edu/~drago/Projects/scape/scape.html) |
@@ -55,6 +57,8 @@ Here are some good resources to get started on studying this subfield of compute
   | STAR         | 2020 | A Sparse Trained Articulated Human Body Regressor    | [[Project page]](https://star.is.tue.mpg.de/)      |
   | GHUM & GHUML | 2020 | Generative 3D Human Shape and Articulated Pose Models| [[GitHub page]](https://github.com/google-research/google-research/tree/master/ghum)|
 
+  ### Helpful resources
+  - SMPL introduction blog: https://khanhha.github.io/posts/SMPL-model-introduction/
 </details>
 
 
