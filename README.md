@@ -21,6 +21,7 @@ Here are some good resources to get started on studying this subfield of compute
 <details>
   <summary>Survey papers</summary>
   
+  - [CVPR 2022: Recovering 3D Human Mesh from Monocular Images: A Survey](https://arxiv.org/pdf/2203.01923.pdf)
   - [Monocular Human Pose Estimation: A Survey of Deep Learning-based Methods](https://arxiv.org/abs/2006.01423)
   - [A survey on monocular 3D human pose estimation](https://www.sciencedirect.com/science/article/pii/S2096579620300887)
   - [Deep 3D human pose estimation: A review](https://www.sciencedirect.com/science/article/pii/S1077314221000692)
